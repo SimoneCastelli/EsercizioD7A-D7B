@@ -1,0 +1,47 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    height: 15%;
+    background-color: rgb(16, 90, 160);
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-start;
+    height: 15%;
+    background-color: rgb(16, 90, 160);
+}
+
+h2 {
+    margin: 0;
+}
+
+.main {
+    height: 70%;
+    display: flex;
+    width: 100%;
+    justify-content: stretch ;
+}
+
+.main-1 {
+    background-color: yellow;
+    width: 25%;
+    
+}
+
+.main-2 {
+    background-color: rgb(255, 145, 0);
+    width: 45%;
+    
+}
+
+.main-3 {
+    background-color: rgb(78, 207, 27);
+    width: 30%;
+}
